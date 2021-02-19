@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+<a href="">
+<img src="" alt="AH-Logo" width=64 height=64>
+</a>
+<h3 align="center">Ashley Henderson</h3>
+<p align="center">
 
-<!--
-**Hendies567/Hendies567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there, I'm an iOS App Developer based near 📍Birmingham, UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Areas Of Expertise 📖
+- Swift
+- Node.js
+- Kotlin (Beginner)
+- Git
+- REST APIs
+- JSON
+
+For more information and to see my experience checkout my website (link below).
+
+### Get In Touch 💬
+📧 <a href="mailto:dev.ashleyhenderson@gmail.com">Send an e-mail</a>
+
+👤 <a href="https://www.linkedin.com/in/ashley-liam-henderson/">Connect with me on LinkedIn</a>
