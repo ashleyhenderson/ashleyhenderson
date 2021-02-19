@@ -11,7 +11,7 @@ Hi there, I'm an iOS App Developer based near 📍Birmingham, UK.
 ### My Areas Of Expertise 📖
 - Swift
 - Node.js
-- Kotlin (Beginner)
+- Java / Kotlin (Beginner)
 - Git
 - REST APIs
 - JSON
