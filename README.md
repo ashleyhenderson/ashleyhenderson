@@ -1,6 +1,6 @@
 <p align="center">
 <a href="">
-<img src="" alt="AH-Logo" width=64 height=64>
+<img src="AHLogo.png" alt="AH-Logo" width=64 height=64>
 </a>
 <h3 align="center">Ashley Henderson</h3>
 <p align="center">
