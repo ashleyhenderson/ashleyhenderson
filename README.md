@@ -8,15 +8,13 @@
 
 Hi there, I'm an iOS App Developer based near 📍Birmingham, UK.
 
-### My Areas Of Expertise 📖
-- Swift
-- Node.js
-- Java / Kotlin (Beginner)
-- Git
-- REST APIs
-- JSON
-
-For more information and to see my experience checkout my website (link below).
+### My Portfolio 📖
+- Moneybox
+- First Choice Catering Spares Shopping App
+- First Choice Automated Document Scanner
+- First Choice Engineering App
+- GoHype
+- MIXR
 
 ### Get In Touch 💬
 🌎 <a href="https://www.ashleyhenderson.dev">View my portfolio</a>
