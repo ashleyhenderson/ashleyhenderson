@@ -9,12 +9,12 @@
 Hi there, I'm an iOS App Developer based near 📍Birmingham, UK.
 
 ### My Portfolio 📖
-- Moneybox
-- MIXR
-- First Choice Catering Spares Shopping App
+- [Moneybox](https://www.moneyboxapp.com/)
+- [MIXR](https://www.ashleyhenderson.dev/mixr)
+- [First Choice Catering Spares Shopping App](https://www.firstchoice-cs.co.uk/app/)
 - First Choice Automated Document Scanner
 - First Choice Engineering App
-- GoHype
+- [GoHype](https://www.ashleyhenderson.dev/gohype)
 
 ### Get In Touch 💬
 🌎 <a href="https://www.ashleyhenderson.dev">View my portfolio</a>
